@@ -1,6 +1,5 @@
 {
-    "_comment": "このサイトを写経しています　ー＞　https://tech-lab.sios.jp/archives/21675",
-    "name": "Hello",
+     "name": "Hello",
     "dockerFile": "Dockerfile",
     "forwardPorts": [80],
     "overrideCommand": false,
